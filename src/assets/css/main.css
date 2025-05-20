@@ -142,6 +142,7 @@
   
   .prose p {
     @apply mb-4;
+    display: contents;
   }
   
   .prose h1, .prose h2, .prose h3 {
