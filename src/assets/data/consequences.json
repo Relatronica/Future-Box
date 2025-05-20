@@ -1,0 +1,44 @@
+[
+  {
+    "id": "healthcare",
+    "name": "Healthcare Revolution",
+    "description": "Transformation of medical diagnosis, treatment, and prevention",
+    "examples": ["Disease Prevention", "Personalized Medicine", "Extended Lifespans"]
+  },
+  {
+    "id": "environment",
+    "name": "Environmental Impact",
+    "description": "Effects on climate, ecosystems, and natural resources",
+    "examples": ["Carbon Reduction", "Resource Management", "Ecosystem Restoration"]
+  },
+  {
+    "id": "workforce",
+    "name": "Workforce Transformation",
+    "description": "Changes to employment, skills, and labor markets",
+    "examples": ["Job Automation", "New Career Fields", "Work-Life Integration"]
+  },
+  {
+    "id": "social",
+    "name": "Social Connectivity",
+    "description": "Changes to human interaction and community structures",
+    "examples": ["Digital Communities", "Communication Evolution", "Social Fragmentation"]
+  },
+  {
+    "id": "privacy",
+    "name": "Privacy and Security",
+    "description": "Implications for personal data, surveillance, and digital rights",
+    "examples": ["Data Sovereignty", "Surveillance Systems", "Digital Identity"]
+  },
+  {
+    "id": "inequality",
+    "name": "Technological Inequality",
+    "description": "Disparities in access to and benefits from technology",
+    "examples": ["Digital Divide", "Knowledge Gaps", "Resource Distribution"]
+  },
+  {
+    "id": "governance",
+    "name": "Governance Systems",
+    "description": "Evolution of laws, regulations, and political structures",
+    "examples": ["Tech Regulation", "Digital Democracy", "Global Governance"]
+  }
+]

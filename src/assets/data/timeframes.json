@@ -1,0 +1,26 @@
+[
+  {
+    "id": "near",
+    "name": "Near Future (2025-2030)",
+    "description": "Emerging technologies on the immediate horizon",
+    "characteristics": ["Initial adoption phase", "Early regulatory frameworks", "First commercial applications"]
+  },
+  {
+    "id": "mid",
+    "name": "Mid-Term Future (2030-2040)",
+    "description": "Technologies reaching maturity and widespread adoption",
+    "characteristics": ["Mainstream integration", "Refined regulations", "Societal adaptation"]
+  },
+  {
+    "id": "far",
+    "name": "Far Future (2040-2050)",
+    "description": "Advanced technologies reshaping fundamental aspects of society",
+    "characteristics": ["Full integration", "Transformative impacts", "New paradigms"]
+  },
+  {
+    "id": "distant",
+    "name": "Distant Future (Beyond 2050)",
+    "description": "Speculative technologies with profound implications",
+    "characteristics": ["Revolutionary changes", "Post-scarcity possibilities", "Civilization-level impacts"]
+  }
+]

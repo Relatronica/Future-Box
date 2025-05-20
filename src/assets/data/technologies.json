@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ai",
+    "name": "Artificial Intelligence",
+    "description": "Advanced AI systems capable of human-like reasoning and decision making",
+    "examples": ["Agentic AI", "Small Language Models", "AI Governance Platforms"]
+  },
+  {
+    "id": "quantum",
+    "name": "Quantum Computing",
+    "description": "Computing that harnesses quantum phenomena to perform operations on data",
+    "examples": ["Quantum Cryptography", "Quantum Machine Learning", "Quantum Simulation"]
+  },
+  {
+    "id": "biotech",
+    "name": "Biotechnology",
+    "description": "Technology that utilizes biological systems and living organisms",
+    "examples": ["Early Disease Detection", "Personalized Medicine", "Biotech Beauty"]
+  },
+  {
+    "id": "renewable",
+    "name": "Renewable Energy",
+    "description": "Energy collected from renewable resources that are naturally replenished",
+    "examples": ["Advanced Solar", "Fusion Energy", "Green Hydrogen"]
+  },
+  {
+    "id": "autonomous",
+    "name": "Autonomous Systems",
+    "description": "Self-governing systems capable of performing tasks without human intervention",
+    "examples": ["Autonomous Vehicles", "Drone Networks", "Robotic Assistance"]
+  },
+  {
+    "id": "bci",
+    "name": "Brain-Computer Interfaces",
+    "description": "Direct communication pathway between the brain and an external device",
+    "examples": ["Neural Implants", "Thought-Controlled Devices", "Memory Enhancement"]
+  },
+  {
+    "id": "space",
+    "name": "Space Technology",
+    "description": "Technologies designed for use in space exploration and commercialization",
+    "examples": ["Space Tourism", "Asteroid Mining", "Mars Colonization"]
+  }
+]
