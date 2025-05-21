@@ -32,7 +32,7 @@
         
         <footer class="mt-16 text-center text-sm text-gray-500 dark:text-gray-400 py-6 border-t border-gray-200 dark:border-gray-800">
           <div class="max-w-4xl mx-auto">
-            <p class="mb-2">© {{ new Date().getFullYear() }} Future Scenarios Explorer</p>
+            <p class="mb-2">© {{ new Date().getFullYear() }} Future Scenarios Explorer by Relatronica</p>
             <p class="text-xs">
               Exploring potential futures through the lens of emerging technologies and societal change.
             </p>
