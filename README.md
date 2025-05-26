@@ -45,7 +45,7 @@ Users can also select a narrative tone (utopian, dystopian, or ambiguous) to exp
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/future-scenarios.git
+git clone https://github.com/relatronica/future-box.git
 cd future-scenarios
 ```
 
